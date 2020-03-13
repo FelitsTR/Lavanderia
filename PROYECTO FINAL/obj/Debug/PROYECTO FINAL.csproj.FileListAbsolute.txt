@@ -1,0 +1,16 @@
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Inicioregistro.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Iniciosesion.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Properties.Resources.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Registro.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.csproj.GenerateResource.cache
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe.config
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.exe
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\bin\Debug\PROYECTO FINAL.pdb
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Form1.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.exe
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO FINAL.pdb
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Mapa.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Productos.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Repartidor.resources
+C:\Users\felix\source\repos\PROYECTO FINAL\PROYECTO FINAL\obj\Debug\PROYECTO_FINAL.Pago.resources
