@@ -23,6 +23,8 @@ namespace PROYECTO_FINAL
 
         private void Mapa_Load(object sender, EventArgs e)
         {
+
+
         }
 
         private void webBrowser1_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
@@ -97,6 +99,13 @@ namespace PROYECTO_FINAL
                 textBox2.Text = textBox1.Text;
                 button3.Enabled = false;
             }
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            TipoDeServicio obj = new TipoDeServicio();
+            obj.Show();
+            this.Hide();
         }
     }
 }

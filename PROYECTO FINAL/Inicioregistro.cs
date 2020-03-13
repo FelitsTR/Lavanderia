@@ -37,5 +37,15 @@ namespace PROYECTO_FINAL
             objeto.Show();
             this.Hide();
         }
+
+        private void panel3_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Inicioregistro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
